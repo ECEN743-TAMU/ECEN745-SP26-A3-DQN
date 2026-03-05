@@ -13,7 +13,7 @@
 This course uses the Texas A&M High Performance Research Computing (HPRC) system for all programming assignments.  
 Follow the instructions from [Assignment 1](https://github.com/ECEN743-TAMU/ECEN743-SP26-A1-DP) to create your account, set up the required conda environment, and launch JupyterLab.  
 
-**NOTE**: If you get an error while importing torch, please rerun the `make_env.sh` file from Assignment 1.
+**NOTE**: If you get an error while importing torch, please rerun step-3 from Assignment 1.
 
 
 ## Assignment
