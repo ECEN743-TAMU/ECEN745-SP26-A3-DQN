@@ -17,7 +17,7 @@ Follow the instructions from [Assignment 1](https://github.com/ECEN743-TAMU/ECEN
 ## Assignment
 In this homework, you will train a deep Q-Learning algorithm to land a lunar lander on the surface of the moon. We will use the Lunar Lander environment (LunarLander-v3) from  Gymnasium. The environment consists of a lander with $4$ discrete actions and a continuous state space. A detailed description of the environment can be found [here](https://gymnasium.farama.org/environments/box2d/lunar_lander/).
 
-1. **Deep Q-Learning:** Implement deep Q-learning **with** experience replay and target network. You should include the training curve in the PDF report (x-axis is the number of episode and the y-axis should be episodic cumulative reward). Use a sliding window average to get smooth plots. Include a description of the hyperparameters used. Also, you should submit a video of the smooth landing achieved by your RL algorithm. Try to find the optimal hyperparameters that will enable fast convergence to the optimal policy.  
+1. **Deep Q-Learning:** Implement deep Q-learning **with** experience replay and target network. You should include the training curve in the HTML report (x-axis is the number of episode and the y-axis should be episodic cumulative reward). Use a sliding window average to get smooth plots. Include a description of the hyperparameters used. Also, you should submit a video of the smooth landing achieved by your RL algorithm. Try to find the optimal hyperparameters that will enable fast convergence to the optimal policy.  
 
 2. **Ablation Study:** Perform ablation study to understand the importance of experience replay and target network. You should include the training curves, and  describe your observations and inferences.   
 
