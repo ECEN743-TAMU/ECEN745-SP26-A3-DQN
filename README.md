@@ -3,7 +3,7 @@
 
 
 ## Overview
-1. You have to submit a report in `HTML`, your code and 2 videos to Canvas.
+1. You have to submit a report in `HTML`, your code and two videos to Canvas.
 2. Put all your files (`HTML` report, code, videos) into a **single compressed folder** named `Lastname_Firstname_A3.zip`.
 3. In Jupyter Notebook, you can export it in `HTML` by going through the top toolbar: File -> Save and Export Notebook As... -> HTML.
 4. This homework is self-containted in one Jupyter notebook. In your `zip`, we expect only your `HTML` report, **one** Jupyter notebook and **two** videos.
